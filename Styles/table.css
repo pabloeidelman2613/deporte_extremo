@@ -1,0 +1,30 @@
+.table {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    border-collapse: collapse;
+    background: #dadada;
+}
+
+.table-title {
+    width: 100%;
+    color: white;
+    font-size: 1.5em;
+    font-weight: bold;
+    background-color: #dc3545;
+}
+
+.table-number {
+    font-size: 1.75rem;
+    vertical-align: middle;
+    border-collapse: collapse;
+}
+
+.table-member {
+    text-align: left;
+    font-size: .75rem;
+}
+
+.table-member_name {
+    font-weight: bold;
+}
